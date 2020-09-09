@@ -33,12 +33,12 @@ def write_stats(df):
 
 
 def fetch(config):
+    set_trace()
     url = config['PB']['url']
     print(url)
 
     for i in range(100):
         time.sleep(1)
-        fetch(url)
 
         feed = gtfs_realtime_pb2.FeedMessage()
         req = requests.get(url)
@@ -57,7 +57,7 @@ def main():
 
     df = statistics(config)
     write_stats(df)
-    #fetch(config)
+    fetch(config)
 
 if __name__ == '__main__':
     main()
