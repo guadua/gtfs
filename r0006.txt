@@ -1,0 +1,3 @@
+http://loc.bus-vision.jp/realtime/wakayama_trip_update.bin
+http://loc.bus-vision.jp/realtime/wakayama_vpos_update.bin
+

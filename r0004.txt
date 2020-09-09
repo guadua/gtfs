@@ -1,0 +1,3 @@
+http://opendata.sagabus.info/route.pb
+http://opendata.sagabus.info/vehicle.pb
+http://opendata.sagabus.info/alert.pb

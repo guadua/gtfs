@@ -1,0 +1,3 @@
+http://www3.unobus.co.jp/GTFS/GTFS_RT.bin
+http://www3.unobus.co.jp/GTFS/GTFS_RT-VP.bin
+http://www3.unobus.co.jp/GTFS/GTFS_RT-Alert.bin

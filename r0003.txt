@@ -1,0 +1,2 @@
+http://loc.bus-vision.jp/realtime/okaden_trip_update.bin
+http://loc.bus-vision.jp/realtime/okaden_vpos_update.bin
